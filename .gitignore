@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+TestResults/
+
+# NuGet Packages
+packages/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Debug files
+*.pdb
+*.dll
+*.exe
+
+# Environment settings
+appsettings*.json
+*.env
